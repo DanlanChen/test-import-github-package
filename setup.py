@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 NAME = "import_package"
 VERSION = "1.0.0"
 
-EQUIRES = [
+REQUIRES = [
     'configargparse',
     'bravado',
     'apscheduler']
